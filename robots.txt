@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ubaidzia1086.github.io/sitemap.xml
